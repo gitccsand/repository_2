@@ -1,6 +1,7 @@
 #!/bin/bash
-./b.sh
-rv=$?
+#./b.sh
+#rv=$?
+rv=1
 #echo $rv
 while [[ $rv -ne 0 ]]
 do
